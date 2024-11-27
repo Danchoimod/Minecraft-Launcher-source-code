@@ -1,0 +1,51 @@
+• Bug Fix •
+        - Some blocks have not had their texture changed
+    ]]></string>
+    <string name="ver_1_4"><![CDATA[
+        - Cursor support
+        - New Settings
+        - Official Web update
+        - Language Update 70%
+    ]]></string>
+    <string name="ver_1_5"><![CDATA[
+        - Remake Launcher
+        - Market Place
+        - Download Multiversion
+        - Fix UI
+    ]]></string>
+    <!-- settings -->
+    <string name="account">Account</string>
+    <string name="launcher_configuration">Launcher Configuration</string>
+    <string name="login">Login</string>
+    <string name="play_startup_sound">Play Startup Sound</string>
+    <string name="show_welcome_message">Show Welcome Message</string>
+    <string name="java_gui">Java GUI</string>
+    <string name="sent_to_mod2090">Sent to ©Mod2090</string>
+    <string name="use_beta_version_of_the_launcher">Use beta version of the Launcher</string>
+    <string name="creator">creator</string>
+    <string name="credits_and_third_party_licenses">Credits and Third party licenses</string>
+    <!-- login -->
+    <string name="continue_without_account">Continue without account</string>
+    <string name="do_not_have_an_account">Do not have an account?</string>
+    <string name="click_here_to_create">Click here to create</string>
+    <!-- register -->
+  <string name="register">Register</string>
+    <string name="user">User</string>
+    <string name="gmail">Gmail</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="already_have_an_account">Already have an account</string>
+    <string name="sign_in">Sign-in</string>
+    <!-- store -->
+  <string name="owned">OWNED</string>
+    <string name="all">All</string>
+    <string name="texture">Texture</string>
+    <string name="skin">Skin</string>
+    <string name="addon">Add-on</string>
+    <string name="login_prompt">Use Your LastFom Account to Login in Minecraft</string>
+    <string name="world">World</string>
+    <string name="enter_search_here">Enter Search Here...</string>
+    <string name="results_by_a_to_z">Results by A to Z</string>
+    <string name ="Refesh_the_page">Refesh_the_page
+</resources>
+viết hóa giúp tôi
