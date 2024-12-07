@@ -1,4 +1,74 @@
-• Bug Fix •
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Java Launcher -->
+    <string name="switch_version">Switch Version</string>
+    <string name="coppyright">NOT ASSOCIATED OR APPROVED BY MOJANG</string>
+    <string name="news">news</string>
+    <string name="market_place">Market Place</string>
+    <string name="local_account">Local Account</string>
+    <string name="play">Play</string>
+    <string name="installations">Installations</string>
+    <string name="release_notes">Release notes</string>
+    <string name="server">Server</string>
+    <string name="release">Release</string>
+    <string name="about">About</string>
+    <string name="client">Client</string>
+    <string name="version">v1.5 Alpha Release</string>
+    <string name="source">Copyright LF/Launcher</string>
+    <string name="settings">Settings</string>
+
+    <!-- Mobile Launcher -->
+    <string name="text_tools">Tools</string>
+    <string name="mobile_version">version:</string>
+    <string name="multi_version">Multi Version</string>
+    <string name="mobile_market_place">Market Place</string>
+    <string name="new_gui">New GUI</string>
+    <string name="text_community">Community</string>
+    <string name="server_add">Server Add</string>
+    <string name="skins_download">Skin download</string>
+
+
+    <!-- release note -->
+    <string name="changes_in">Changes in</string>
+    <string name="ver_1_0"><![CDATA[
+        - Improve performance in version 0.14.3.\n
+        - Simplify the interface with only essential buttons being functional, while the rest are purely decorative.
+        - Implement the UI from the Windows 10 Edition.
+        - Introduce a new graphics pack.
+        - Add a new splash animation.
+    ]]></string>
+    <string name="ver_1_1"><![CDATA[
+        - Change the interface to resemble the Java launcher.
+        - Add an in-game music menu (similar to a hack menu).
+        - Add a list of active servers for version 0.14.x.
+        - Implement the UI from the PS3 version of Minecraft.
+        - Update the functionality of buttons.
+        - Modify the texture of the poison icon.
+    ]]></string>
+    <string name="ver_1_2"><![CDATA[
+        - Completely change the Launcher to be as similar to the Java launcher as possible.
+        - Open multiple versions of Minecraft.
+        - Add the ability to download skins.
+        - Add classic Minecraft music.
+        - Modify the game&apos;s user interface to match the current interface.
+        - Add language switching for players from different countries.
+        - Add lightweight shader effects for weaker devices.
+        - Implement a store feature for downloading skin packs and additional maps from the store.
+
+        • BUG FIXES •
+        - Fix inaccuracies with cloud effects.
+        - Fix issues with Chat not hiding.
+    ]]></string>
+    <string name="ver_1_3"><![CDATA[
+        - Update version 0.15.4
+        - Windows 10 GUI for Minecraft
+        - MarketPlace Update
+        - Remove launcher
+        - Change webview for skins button
+        - Allow to change player name in settings
+        - Save your account to get into the game quickly
+
+        • Bug Fix •
         - Some blocks have not had their texture changed
     ]]></string>
     <string name="ver_1_4"><![CDATA[
@@ -12,6 +82,7 @@
         - Market Place
         - Download Multiversion
         - Fix UI
+        - Removed Herobrine
     ]]></string>
     <!-- settings -->
     <string name="account">Account</string>
@@ -29,7 +100,7 @@
     <string name="do_not_have_an_account">Do not have an account?</string>
     <string name="click_here_to_create">Click here to create</string>
     <!-- register -->
-  <string name="register">Register</string>
+	<string name="register">Register</string>
     <string name="user">User</string>
     <string name="gmail">Gmail</string>
     <string name="password">Password</string>
@@ -37,7 +108,7 @@
     <string name="already_have_an_account">Already have an account</string>
     <string name="sign_in">Sign-in</string>
     <!-- store -->
-  <string name="owned">OWNED</string>
+	<string name="owned">OWNED</string>
     <string name="all">All</string>
     <string name="texture">Texture</string>
     <string name="skin">Skin</string>
@@ -46,5 +117,7 @@
     <string name="world">World</string>
     <string name="enter_search_here">Enter Search Here...</string>
     <string name="results_by_a_to_z">Results by A to Z</string>
-    <string name ="Refesh_the_page">Refesh_the_page<string>
+    <string name="installation">installation</string>
+    
+
 </resources>
