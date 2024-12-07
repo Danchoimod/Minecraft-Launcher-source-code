@@ -27,63 +27,15 @@
     <string name="server_add">Server Add</string>
     <string name="skins_download">Skin download</string>
 
-
     <!-- release note -->
     <string name="changes_in">Changes in</string>
-    <string name="ver_1_0"><![CDATA[
-        - Improve performance in version 0.14.3.\n
-        - Simplify the interface with only essential buttons being functional, while the rest are purely decorative.
-        - Implement the UI from the Windows 10 Edition.
-        - Introduce a new graphics pack.
-        - Add a new splash animation.
-    ]]></string>
-    <string name="ver_1_1"><![CDATA[
-        - Change the interface to resemble the Java launcher.
-        - Add an in-game music menu (similar to a hack menu).
-        - Add a list of active servers for version 0.14.x.
-        - Implement the UI from the PS3 version of Minecraft.
-        - Update the functionality of buttons.
-        - Modify the texture of the poison icon.
-    ]]></string>
-    <string name="ver_1_2"><![CDATA[
-        - Completely change the Launcher to be as similar to the Java launcher as possible.
-        - Open multiple versions of Minecraft.
-        - Add the ability to download skins.
-        - Add classic Minecraft music.
-        - Modify the game&apos;s user interface to match the current interface.
-        - Add language switching for players from different countries.
-        - Add lightweight shader effects for weaker devices.
-        - Implement a store feature for downloading skin packs and additional maps from the store.
+    <string name="ver_1_0">- Improve performance in version 0.14.3.\n- Simplify the interface with only essential buttons being functional, while the rest are purely decorative.\n- Implement the UI from the Windows 10 Edition.\n- Introduce a new graphics pack.\n- Add a new splash animation.</string>
+    <string name="ver_1_1">- Change the interface to resemble the Java launcher.\n- Add an in-game music menu (similar to a hack menu).\n- Add a list of active servers for version 0.14.x.\n- Implement the UI from the PS3 version of Minecraft.\n- Update the functionality of buttons.\n- Modify the texture of the poison icon.</string>
+    <string name="ver_1_2">- Completely change the Launcher to be as similar to the Java launcher as possible.\n- Open multiple versions of Minecraft.\n- Add the ability to download skins.\n- Add classic Minecraft music.\n- Modify the game's user interface to match the current interface.\n- Add language switching for players from different countries.\n- Add lightweight shader effects for weaker devices.\n- Implement a store feature for downloading skin packs and additional maps from the store.\n\n• BUG FIXES •\n- Fix inaccuracies with cloud effects.\n- Fix issues with Chat not hiding.</string>
+    <string name="ver_1_3">- Update version 0.15.4\n- Windows 10 GUI for Minecraft\n- MarketPlace Update\n- Remove launcher\n- Change webview for skins button\n- Allow to change player name in settings\n- Save your account to get into the game quickly\n\n• Bug Fix •\n- Some blocks have not had their texture changed</string>
+    <string name="ver_1_4">- Cursor support\n- New Settings\n- Official Web update\n- Language Update 70%</string>
+    <string name="ver_1_5">- Remake Launcher\n- Market Place\n- Download Multiversion\n- Fix UI\n- Removed Herobrine</string>
 
-        • BUG FIXES •
-        - Fix inaccuracies with cloud effects.
-        - Fix issues with Chat not hiding.
-    ]]></string>
-    <string name="ver_1_3"><![CDATA[
-        - Update version 0.15.4
-        - Windows 10 GUI for Minecraft
-        - MarketPlace Update
-        - Remove launcher
-        - Change webview for skins button
-        - Allow to change player name in settings
-        - Save your account to get into the game quickly
-
-        • Bug Fix •
-        - Some blocks have not had their texture changed
-    ]]></string>
-    <string name="ver_1_4"><![CDATA[
-        - Cursor support
-        - New Settings
-        - Official Web update
-        - Language Update 70%
-    ]]></string>
-    <string name="ver_1_5"><![CDATA[
-        - Remake Launcher
-        - Market Place
-        - Download Multiversion
-        - Fix UI
-        - Removed Herobrine
-    ]]></string>
     <!-- settings -->
     <string name="account">Account</string>
     <string name="launcher_configuration">Launcher Configuration</string>
@@ -95,20 +47,23 @@
     <string name="use_beta_version_of_the_launcher">Use beta version of the Launcher</string>
     <string name="creator">creator</string>
     <string name="credits_and_third_party_licenses">Credits and Third party licenses</string>
+
     <!-- login -->
     <string name="continue_without_account">Continue without account</string>
     <string name="do_not_have_an_account">Do not have an account?</string>
     <string name="click_here_to_create">Click here to create</string>
+
     <!-- register -->
-	<string name="register">Register</string>
+    <string name="register">Register</string>
     <string name="user">User</string>
     <string name="gmail">Gmail</string>
     <string name="password">Password</string>
     <string name="confirm_password">Confirm password</string>
     <string name="already_have_an_account">Already have an account</string>
     <string name="sign_in">Sign-in</string>
+
     <!-- store -->
-	<string name="owned">OWNED</string>
+    <string name="owned">OWNED</string>
     <string name="all">All</string>
     <string name="texture">Texture</string>
     <string name="skin">Skin</string>
@@ -118,6 +73,4 @@
     <string name="enter_search_here">Enter Search Here...</string>
     <string name="results_by_a_to_z">Results by A to Z</string>
     <string name="installation">installation</string>
-    
-
 </resources>
